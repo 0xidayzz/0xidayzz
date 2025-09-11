@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">👨‍💻 Portfolio: soon<br><br>📄 Know about my experiences : soon<br><br>📫 How to reach me couton.joh@gmail.com</p>
+<p align="left">👨‍💻 Portfolio: soon<br><br>📄 Know about my experiences : soon<br><br>📫 How to reach me <strong>couton.joh@gmail.com</strong></p>
 
 ###
 
