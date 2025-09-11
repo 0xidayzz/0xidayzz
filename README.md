@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">👨‍💻 Portfolio: soon<br><br>📄 Know about my experiences : soon</p>
+<p align="left">👨‍💻 Portfolio: soon<br><br>📄 Know about my experiences : soon<br><br>📫 How to reach me couton.joh@gmail.com</p>
 
 ###
 
@@ -21,9 +21,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/johan-couton-8039b0343/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="couton.joh@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
